@@ -1,0 +1,2 @@
+Hello
+We learnt to initialise, list, add, check the status and commit
